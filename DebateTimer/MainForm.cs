@@ -185,8 +185,8 @@ namespace DebateTimer
 			button1.Text="重置";
 			label1.Text=millisToText(time*1000);
 			label2.Text=millisToText(time*1000);
-			updateLabel();
 			this.isLeft=true;
+			updateLabel();
 			button2.Enabled=true;
 			button3.Enabled=true;
 			timer2.Enabled=true;
