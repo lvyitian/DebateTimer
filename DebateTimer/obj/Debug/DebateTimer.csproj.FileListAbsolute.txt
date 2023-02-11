@@ -1,0 +1,8 @@
+C:\Users\53548\Documents\SharpDevelop Projects\DebateTimer\DebateTimer\obj\Debug\DebateTimer.csprojResolveAssemblyReference.cache
+C:\Users\53548\Documents\SharpDevelop Projects\DebateTimer\DebateTimer\bin\Debug\DebateTimer.exe.config
+C:\Users\53548\Documents\SharpDevelop Projects\DebateTimer\DebateTimer\bin\Debug\DebateTimer.exe
+C:\Users\53548\Documents\SharpDevelop Projects\DebateTimer\DebateTimer\bin\Debug\DebateTimer.pdb
+C:\Users\53548\Documents\SharpDevelop Projects\DebateTimer\DebateTimer\obj\Debug\DebateTimer.MainForm.resources
+C:\Users\53548\Documents\SharpDevelop Projects\DebateTimer\DebateTimer\obj\Debug\DebateTimer.csproj.GenerateResource.Cache
+C:\Users\53548\Documents\SharpDevelop Projects\DebateTimer\DebateTimer\obj\Debug\DebateTimer.exe
+C:\Users\53548\Documents\SharpDevelop Projects\DebateTimer\DebateTimer\obj\Debug\DebateTimer.pdb
