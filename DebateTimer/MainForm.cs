@@ -136,6 +136,7 @@ namespace DebateTimer
 			button2.Enabled=false;
 			button2.Text="暂停";
 			button3.Enabled=false;
+			isLeft=true;
 			label7.Text="";
 		}
 		public void resetWatch()
